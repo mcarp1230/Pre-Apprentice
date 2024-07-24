@@ -1,0 +1,29 @@
+h1{ 
+    color: rgb(102, 12, 12);
+    font-family: serif;
+}
+
+h2 { 
+    color: rgb(102, 12, 12);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3 { 
+    color: rgb(102, 12, 12);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h4 {
+    color: rgb(102, 12, 12);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h5 {
+    color: rgb(102, 12, 12);
+    font-family: unset;
+}
+
+body { 
+    background-color: rgb(146, 104, 53);
+}
+
